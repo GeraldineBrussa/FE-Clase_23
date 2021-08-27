@@ -170,9 +170,8 @@
 * body footer .redes img {
   margin: 0 1rem 0 0;
   border-radius: 45%;
-  padding: 5px 5px;
   background-color: #f8f8f8;
-  -webkit-box-shadow: -5px -5px #92f7f2;
-          box-shadow: -5px -5px #92f7f2;
+  -webkit-box-shadow: -5px -7px #92f7f2;
+          box-shadow: -5px -7px #92f7f2;
 }
 /*# sourceMappingURL=style.css.map */
